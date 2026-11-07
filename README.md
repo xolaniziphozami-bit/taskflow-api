@@ -38,4 +38,5 @@ taskflow-api/
 │
 ├── .gitignore
 ├── README.md
-└── tasks.db
+└── requirements.txt
+
