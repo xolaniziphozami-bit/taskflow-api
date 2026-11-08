@@ -1,6 +1,11 @@
 venv/
+.venv/
 __pycache__/
 *.pyc
 .DS_Store
 tasks.db
+tasks.db-*
+.env
+.env.*
+!.env.example
 .vscode/
